@@ -10,7 +10,7 @@ body {
 .jumbotron {
     background-size: cover;
     color: white;
-    min-height: 600px;
+    min-height: 350px;
 }
 
 .card-title {
